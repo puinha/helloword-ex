@@ -1,0 +1,23 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  font-size: 30px;
+  color: #003399;
+}
+
+h2{
+  font-size: 20px;
+  color: #1a66ff;
+}
+
+h3{
+  font-size: 17px;
+  color: #6699ff;
+}
+
+p{
+  font-size: 14px;
+  color: #999999;
+}
